@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Online multiplayer tic tac toe.",
+  "main": "index.js",
+  "author": "Khalil Chatoo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jquery": "^3.3.1",
+    "skeleton-css": "^2.0.4",
+    "socket.io": "^2.0.4"
+  }
+}
